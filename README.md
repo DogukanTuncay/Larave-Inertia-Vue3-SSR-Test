@@ -1,6 +1,10 @@
 # Laravel Inertia.js Vue 3 SSR Project
 
 This project is a web application built using Laravel with Inertia.js, Vue 3, and Server-Side Rendering (SSR). This setup allows you to build a modern single-page application (SPA) using Laravel as the backend while leveraging Vue.js for the frontend, with the added benefit of SSR for improved performance and SEO.
+## Photos
+![image](https://github.com/user-attachments/assets/15b5e174-c6e5-498f-a06a-aad06929c7dd)
+![image](https://github.com/user-attachments/assets/c0d38b68-f375-4390-9915-f49604d02a7b)
+![image](https://github.com/user-attachments/assets/68430f5d-a902-4b5b-ae52-30a92b6cb0bd)
 
 ## Table of Contents
 
