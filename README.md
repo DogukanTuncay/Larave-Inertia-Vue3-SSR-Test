@@ -33,8 +33,8 @@ To install the project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-project-name.git
-    cd your-project-name
+    git clone https://github.com/DogukanTuncay/Larave-Inertia-Vue3-SSR-Test.git
+    cd Larave-Inertia-Vue3-SSR-Test
     ```
 
 2. **Install PHP dependencies:**
